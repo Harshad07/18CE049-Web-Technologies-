@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Biography</title>
+</head>
+<body>
+    <header>
+        <h1>My Biography</h1>
+    </header>
+    <p>Myself <b>Harshad Mangaliya</b> studying in <b>charusat</b> university located in changa. My primary and higher secondery education was from Gujarat Board.I am currently living in changa.I am 19 years old.Till now i have studied c,c++,java,python,matlab,html,css,javascript.I have made 3 projects in my 1st and 2nd year. In my 2nd sem, i have make a School  Managment system using c++.In my 3rd sem I have made Keylogger using python.And currently I am working Ardiuno based gesture control car.</p>
+    <img src="https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">;
+	<style > overflow : hidden; </style>
+</body>
+</html>
